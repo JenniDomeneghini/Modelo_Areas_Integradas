@@ -9,4 +9,4 @@ O arquivo "Scrypt_Modelo_Areas_Integradas.py" contém o Scrypt do Modelo em Pyth
 
 O arquivo "Etapas para a Criação do Modelo Áreas Integradas no QGIS 3.34", mostra o passo a passo feito na criação do modelo disponibilizado.
 
-O arquivo "Tutorial do Método para criar Mapas com as Áreas mais Integradas entre Micromobilidade e o Transporte Público Coletivo", mostra o passo a passo para a aplicação do método proposto na tese e como inserir o modleo no QGIS.
+O arquivo "Tutorial do Método para criar Mapas com as Áreas mais Integradas entre Micromobilidade e o Transporte Público Coletivo", mostra o passo a passo para a aplicação do método proposto na tese e como inserir o modelo no QGIS.
