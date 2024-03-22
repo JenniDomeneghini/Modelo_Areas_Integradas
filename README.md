@@ -5,7 +5,7 @@ Para facilitar a análise multicritério no QGIS, foi desenvolvido um modelo que
 
 O arquivo "Modelo Areas Integradas.model3" é o modelo pronto para ser inserido no QGIS.
 
-O arquivo "Scrypt_Modelo_Areas_Integradas.py" contém o Scrypt do Modelo em Python.
+O arquivo "Scrypt_Modelo_Areas_Integradas.py" contém o scrypt do modelo em Python.
 
 O arquivo "Etapas para a Criação do Modelo Áreas Integradas no QGIS 3.34", mostra o passo a passo feito na criação do modelo disponibilizado.
 
